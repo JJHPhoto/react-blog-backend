@@ -1,0 +1,27 @@
+{
+  "name": "react-blog-backend",
+  "version": "1.0.0",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/node": "^7.14.7",
+    "@babel/preset-env": "^7.14.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJHPhoto/react-blog-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJHPhoto/react-blog-backend/issues"
+  },
+  "homepage": "https://github.com/JJHPhoto/react-blog-backend#readme"
+}
