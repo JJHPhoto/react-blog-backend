@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/-Express-green" />
 <img src="https://img.shields.io/badge/-Babel-blueviolet" />
 <img src="https://img.shields.io/badge/-Body Parser-critical" />
+<img src="https://img.shields.io/badge/-Nodemon-orange" />
 
 ## Resources
 
