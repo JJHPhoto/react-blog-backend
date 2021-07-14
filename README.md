@@ -23,7 +23,8 @@
 
 ## Stack
 
-<img src="https://img.shields.io/badge/-node.js-green" />
+<img src="https://img.shields.io/badge/-Node.js-green" />
+  <img src="https://img.shields.io/badge/-MongoDB-orange" />
 
 ## Dependencies
 
